@@ -35,7 +35,7 @@
 		  <div class="w3-container w3-padding-32" id="#">
 		    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Update</h3>
 		    <p>Update Store</p>
-		    <form action="update.html">
+                    <form action="update.php">
 		      <input class="w3-input w3-border" type="text" placeholder="Store ID:" required="" name="storeid">
           <input class="w3-input w3-section w3-border" type="text" placeholder="Accountant:" required="" name="accountant">
           <input class="w3-input w3-section w3-border" type="text" placeholder="Revenue:" required="" name="revenue">

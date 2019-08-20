@@ -36,7 +36,7 @@
 		  <div class="w3-container w3-padding-32" id="#">
 		    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Delete</h3>
 		    <p>Delete Store</p>
-		    <form action="delete.html" >
+                    <form action="delete.php" >
 		      <input class="w3-input w3-border" type="text" placeholder="Store ID:" required="" name="storeid">
 
 		      <button class="w3-button w3-black w3-section" type="submit">
